@@ -11,7 +11,7 @@
       "expected": {
         "value": 33,
         "unit": "ohms",
-        "tolerance":"±2%",
+        "tolerance":"±2%"
       }
     },
     {
@@ -24,7 +24,7 @@
       "expected": {
         "value": 680,
         "unit": "ohms",
-        "tolerance":"±0.1%",
+        "tolerance":"±0.1%"
       }
     },
     {
@@ -37,7 +37,7 @@
       "expected": {
         "value": 2,
         "unit": "kiloohms",
-        "tolerance":"±0.5%",
+        "tolerance":"±0.5%"
       }
     },
     {
@@ -50,7 +50,7 @@
       "expected": {
         "value": 51,
         "unit": "kiloohms",
-        "tolerance":"±0.5%",
+        "tolerance":"±0.5%"
       }
     },
     {
@@ -63,7 +63,7 @@
       },
       "expected": {
         "value": 0,
-        "unit": "ohms",
+        "unit": "ohms"
       }
     },
     {
@@ -76,7 +76,7 @@
       "expected": {
         "value": 334,
         "unit": "ohms",
-        "tolerance":"±1%",
+        "tolerance":"±1%"
       }
     },
     {
@@ -89,7 +89,7 @@
       "expected": {
         "value": 2.54,
         "unit": "megaohms",
-        "tolerance":"±1%",
+        "tolerance":"±1%"
       }
     },
     {
@@ -102,7 +102,7 @@
       "expected": {
         "value": 6.89,
         "unit": "kiloohms",
-        "tolerance":"±1%",
+        "tolerance":"±1%"
       }
     },
     {
@@ -115,7 +115,7 @@
       "expected": {
         "value": 7.3,
         "unit": "kiloohms",
-        "tolerance":"±0.05%",
+        "tolerance":"±0.05%"
       }
     },
     {
@@ -128,7 +128,7 @@
       "expected": {
         "value": 12.3,
         "unit": "megaohms",
-        "tolerance":"±0.25%",
+        "tolerance":"±0.25%"
       }
     },
     {
@@ -141,7 +141,7 @@
       "expected": {
         "value": 1.01,
         "unit": "megaohms",
-        "tolerance":"±0.1%",
+        "tolerance":"±0.1%"
       }
     },
     {
@@ -154,7 +154,7 @@
       "expected": {
         "value": 1,
         "unit": "kiloohms",
-        "tolerance":"±2%",
+        "tolerance":"±2%"
       }
     }
   ]
