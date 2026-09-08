@@ -57,7 +57,6 @@ Examples:
 There are also one band resistors.
 One band resistors only have the color black with a value of 0.
 
-
 Your program should translate an input `list` of resistor band colors into a label:
 
 "... ohms ±...%"
