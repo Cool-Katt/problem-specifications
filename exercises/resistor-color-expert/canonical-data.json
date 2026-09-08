@@ -56,7 +56,7 @@
     {
       "uuid": "1cb18e15-1fc5-4375-8a24-ca6eee130a27",
       "description": "Only one band",
-      "comments":[
+      "comments": [
         "One band resistors only have the color black with a value of 0 and no tolerance."
       ],
       "property": "labelDecoder",
