@@ -1,5 +1,5 @@
 {
-  "exercise": "resistor-color-expert",
+  "exercise": "resistor-color-tolerance",
   "cases": [
     {
       "uuid": "fb677832-9a1b-4493-a5b0-786db5a8479c",
@@ -97,6 +97,7 @@
     {
       "uuid": "7998837e-fdfa-48c6-9191-0ab27c4777cc",
       "description": "Blue, gray, white, brown and brown",
+      "scenarios": ["floating-point"],
       "property": "labelDecoder",
       "input": {
         "colors": ["blue", "grey", "white", "brown", "brown"]
@@ -110,6 +111,7 @@
     {
       "uuid": "51554e9f-c21d-4a73-a54c-1d9a973eaed0",
       "description": "Violet, orange, red and gray",
+      "scenarios": ["floating-point"],
       "property": "labelDecoder",
       "input": {
         "colors": ["violet", "orange", "red", "grey"]
@@ -123,6 +125,7 @@
     {
       "uuid": "68aa7ba3-2334-411a-b3a4-7c47fe20fd99",
       "description": "Brown, red, orange, green and blue",
+      "scenarios": ["floating-point"],
       "property": "labelDecoder",
       "input": {
         "colors": ["brown", "red", "orange", "green", "blue"]
@@ -136,6 +139,7 @@
     {
       "uuid": "f6069edc-099b-429b-b2a9-bbe2537d2fae",
       "description": "Brown, black, brown, yellow and violet",
+      "scenarios": ["floating-point"],
       "property": "labelDecoder",
       "input": {
         "colors": ["brown", "black", "brown", "yellow", "violet"]
